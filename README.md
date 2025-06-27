@@ -4,6 +4,6 @@
 ## I am looking to collaborate with people for learning & growing together.
 ## To know more about me You can see my Portfolio 
   ## PORTFOLIO LINK - [ https://puneetkrportfolio.netlify.app/ ]
-  [[![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneetkr-06)](https://github.com/puneetkr-06/github-readme-stats)]
+  ![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneetkr-06&show_icons=true&theme=radical)
 
 
