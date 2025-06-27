@@ -1,8 +1,9 @@
-##Hi, I'm Puneet ! 
-###👨‍🎓 Third Year Undergrad Student at Delhi Technological University [DTU] pursuing Computer Science Engineering.\
-###👨‍💻 I have a keen interest in MERN Stack Development & I love to create cool stuffs which solves real life problems.\
-###🤝 I am looking to collaborate with people for learning & growing together.\
-###🚀 Continuously exploring new tech and upskilling myself through projects, docs, and coffee-fueled coding sessions!\
+## Hi, I'm Puneet! 👋
+
+👨‍🎓 Third Year Undergrad Student at **Delhi Technological University (DTU)**, pursuing Computer Science Engineering.    
+👨‍💻 Keen interest in **MERN Stack Development** – I love building cool stuff that solves real-life problems.    
+🤝 Looking to collaborate and grow by learning together with awesome folks out there.    
+🚀 Continuously exploring new tech and upskilling myself through hands-on projects, docs, and coffee-fueled coding sessions.
 <br>
 ### 💻 [*Visit My Portfolio*](https://puneetkrportfolio.netlify.app/)
 <br>
