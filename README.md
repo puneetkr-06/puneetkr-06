@@ -13,7 +13,7 @@
 ![](https://leetcard.jacoblin.cool/puneetkr_0609pk?ext=heatmap)<br/>
 
 ## 📊 GitHub Stats:
-![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneetkr-06&show_icons=true&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api?username=puneetkr-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=puneetkr-06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkr-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 
