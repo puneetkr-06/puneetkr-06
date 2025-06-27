@@ -6,10 +6,9 @@
 🚀 Continuously exploring new tech and upskilling myself through hands-on projects, docs, and coffee-fueled coding sessions.
 <br>
 ### 💻 [*Visit My Portfolio*](https://puneetkrportfolio.netlify.app/)
-<br>
 
 ![](https://leetcard.jacoblin.cool/puneetkr_0609pk?ext=heatmap)
-<br>
+
 ![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneetkr-06&show_icons=true&theme=radical)
 
 
