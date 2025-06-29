@@ -13,12 +13,13 @@
 ![](https://leetcard.jacoblin.cool/puneetkr_0609pk?ext=heatmap)<br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=puneetkr-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=puneetkr-06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkr-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=puneetkr-06&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=puneetkr-06&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkr-06&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet-kumar-5843a7276) 
 
 ---
+
 
